@@ -1,0 +1,22 @@
+{
+  "name": "miniature-octo-meme",
+  "version": "1.0.0",
+  "description": "Simple little web game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgaspary/miniature-octo-meme.git"
+  },
+  "author": "Renzo Gaspary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgaspary/miniature-octo-meme/issues"
+  },
+  "homepage": "https://github.com/rgaspary/miniature-octo-meme#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
